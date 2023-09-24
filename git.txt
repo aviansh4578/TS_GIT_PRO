@@ -1,0 +1,10 @@
+github lecture 1
+
+git pull
+git status
+git clone url
+git add . or tab 
+git status
+git commit -m "message"
+git status
+git push  
